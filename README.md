@@ -12,3 +12,7 @@ We started by structuring the HTML and fetching the first API (weather), as a gr
 
 Project deployed here: [Minimalist Weather](https://minimalist-weather-app.netlify.app/)
 By Jessica - Maurii - Nadia - Rijad - Terese.
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
